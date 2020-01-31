@@ -17,3 +17,4 @@ Fork the repor and raise pull request for review
 
 ## GITHub Content
 Comparision with Repo
+Adding New lecture.
