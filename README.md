@@ -10,5 +10,8 @@ This is the famous and one of the Best Traing Course of Devops.
 ## GIT Comparisions 
 Adding GIT Comparisions Lecture
 
+## Contribution
+Fork the repor and raise pull request for review
+
 ## GITHub Content
 Comparision with Repo
