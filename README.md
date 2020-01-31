@@ -6,7 +6,7 @@ A lot of Lectures are already submmited
 
 ## GIT & GITHub Training
 This is the famous and one of the Best Traing Course of Devops.
-Adding GIT Rebse Lecture in GIT Advanced.
+Adding GIT Rebse Lecture in GIT Advanced. We have done so much of work together.
 
 ## GIT Comparisions 
 Adding GIT Comparisions Lecture
