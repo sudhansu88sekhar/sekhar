@@ -12,4 +12,4 @@
 # TECHONOLOGY COLOPHON
 
 	HTML5, CSS3, Angular
-	jQuery, Modernizer, AJAK
+	jQuery, Modernizer, AJAK,sudha
