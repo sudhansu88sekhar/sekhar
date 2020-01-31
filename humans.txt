@@ -5,13 +5,14 @@
 
 	Sudhansu sekhar
 	sudhansu1988@gmail.com
-	sudhansu Devops Engieener
+	Devops Engieener
 
 # THANKS
 
-	<name>
+	Sudhansu Sekhar
 
 # TECHONOLOGY COLOPHON
 
 	HTML5, CSS3, Angular
 	jQuery, Modernizer, AJAK,sudha
+	Docker, Java Progarmming
