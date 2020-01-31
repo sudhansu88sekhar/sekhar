@@ -3,7 +3,9 @@
 
 #TEAM
 
-	<name> Sudhansu sekhar <twitter>
+	Sudhansu sekhar
+	sudhansu1988@gmail.com
+	sudhansu Devops Engieener
 
 # THANKS
 
