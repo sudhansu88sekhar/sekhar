@@ -1,2 +1,0 @@
-#Adding new file in GIT Project.
-This file is still not tacked by Git.
